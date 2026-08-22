@@ -1,9 +1,0 @@
-name = "air"
-license = "MIT"
-description = "A minimal theme."
-homepage = "https://github.com/sudanchapagain/air"
-tags = ["personal"]
-
-[author]
-  name = "Sudan Chapagain"
-  homepage = "https://sudanchapagain.com.np"
